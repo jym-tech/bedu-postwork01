@@ -77,11 +77,11 @@ img {
 
 #### Ejecución
 
-<img title="" src="file:///D:/LAB/bedu-postwork01/sitio01.png" alt="" data-align="center">
+![ejecucion-imagen](/sitio01.png)
 
 ## Practica con CSS Dinner
 
-![](D:\LAB\bedu-postwork01\game01.png)
+![juego-imagen](/game01.png)
 
 # CSS
 
